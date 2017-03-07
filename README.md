@@ -8,3 +8,4 @@ PCIe card:
 - 12V barrel (stock 7A)
 - `PCB-CUBO-AR-X2`
 - `STM-5`, `94V-0`, `42 16`
+- winbond, 25Q80DVSIG? (hard to read, probably a typo)
